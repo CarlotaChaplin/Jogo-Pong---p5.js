@@ -5,6 +5,6 @@ Esse jogo foi desenvolvido na aula de programação inicial do alura com o instr
 
 Utilize as setas para cima e para baixo para mover a raquete!!
 
-![Imagem do jogo](./Capturadetela2022.png)
+![Imagem do jogo](./imagem1.png)
 
 [🔗 Clique aqui para visualizar](https://editor.p5js.org/CarlotaChaplin/full/pzIjiE38b)
