@@ -7,4 +7,4 @@ Utilize as setas para cima e para baixo para mover a raquete!!
 
 ![Imagem do jogo](./Capturadetela2022.png)
 
-[🔗](https://editor.p5js.org/CarlotaChaplin/full/pzIjiE38b)
+[🔗 Clique aqui para visualizar](https://editor.p5js.org/CarlotaChaplin/full/pzIjiE38b)
